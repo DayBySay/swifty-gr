@@ -1,0 +1,12 @@
+id: 1c990897
+name: CLIプロジェクトの初期化
+created: 2026-01-08T17:04:15+0900
+updated: 2026-01-08T17:38:22+0900
+status: active
+stages:
+    impl: in_progress
+    inv: completed
+    new: completed
+    rd: completed
+    rev-spec: completed
+    spec: completed

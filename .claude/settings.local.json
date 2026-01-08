@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(~/ghq/github.com/DayBySay/claude-code-plugins/pph/bin/pph-cli:*)"
+    ]
+  }
+}
